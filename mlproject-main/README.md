@@ -102,6 +102,6 @@ Pushing the Docker image to a container registry (like Azure Container Registry)
 Deploying the image to an Azure App Service or Azure Kubernetes Service (AKS).
 
 👨‍💻 Author
-Ashutosh Kumar
+Ashutosh Gupta
 
 GitHub: Ashu4779
